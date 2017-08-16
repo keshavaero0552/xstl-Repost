@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="packTwo.Annotations"/>
+      <class name="testngFiles2.DependenyAnnot"/>
+      <class name="testngFiles2.Annotations"/>
+      <class name="testngFiles.SaucelabTest"/>
+      <class name="packTwo.DependenyAnnot"/>
+      <class name="testngFiles.DependenyAnnot"/>
+      <class name="testngFiles2.Annot2"/>
+      <class name="packTwo.Annot2"/>
+      <class name="datddriven.Annotations"/>
+      <class name="testngFiles.TestBase"/>
+      <class name="testngFiles.WebDriverTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
